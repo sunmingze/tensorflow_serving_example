@@ -1,0 +1,5 @@
+/Users/sunmingze/Documents/xiaomi_code/tensorflow-service-example/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sunmingze/Documents/xiaomi_code/tensorflow-service-example/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sunmingze/Documents/xiaomi_code/tensorflow-service-example/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/Users/sunmingze/Documents/xiaomi_code/tensorflow-service-example/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/Users/sunmingze/Documents/xiaomi_code/tensorflow-service-example/cmake-build-debug/src/CMakeFiles/deep_model.bin.dir

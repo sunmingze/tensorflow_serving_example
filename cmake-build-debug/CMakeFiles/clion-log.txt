@@ -1,0 +1,6 @@
+/Users/sunmingze/cmake-3.8.0-Darwin-x86_64/CMake.app/Contents/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/local/bin/gcc -DCMAKE_CXX_COMPILER=/usr/local/bin/++ -G "CodeBlocks - Unix Makefiles" /Users/sunmingze/Documents/xiaomi_code/tensorflow-service-example
+-- CMAKE_CXX_COMPILER: /usr/local/bin/++
+-- CMAKE_CXX_FLAGS:  -std=c++11 -msse4.1 -fPIC -O3 -ggdb -Wall -finline-functions -undefined dynamic_lookup -all_load
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/sunmingze/Documents/xiaomi_code/tensorflow-service-example/cmake-build-debug
